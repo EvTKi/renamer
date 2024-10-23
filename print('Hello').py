@@ -6,3 +6,4 @@ time.sleep(5)
 def foo():
     m=int()
     return m
+twest=0
